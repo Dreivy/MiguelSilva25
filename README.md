@@ -1,10 +1,25 @@
+
 - 👋 Hi, I’m @MiguelSilva25
 - 👀 Data Science Student
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me linkedin.com/in/miguelsilva-1584b117b
 
-<!---
-MiguelSilva25/MiguelSilva25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/MiguelSilva25">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelSilva25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSilva25&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Miguel-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Miguel-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+  
+##
+  
+<div>
+  <a href="https://www.linkedin.com/in/miguelsilva-1584b117b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+</div>
+  
