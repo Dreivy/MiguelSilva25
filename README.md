@@ -21,7 +21,8 @@
   <img Align="center" alt="Miguel-rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 </div>
  <img Align="center" alt="Miguel-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  
+ <i class="devicon-numpy-original-wordmark"></i>
+          
 ##
   
 <div>
