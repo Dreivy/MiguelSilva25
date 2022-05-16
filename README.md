@@ -1,5 +1,5 @@
-### Olá, sou Miguel Magalhães da Silva 👋
-### Graduando em Ciência de Dados
+### Olá, sou Miguel Magalhães da Silva, seja bem-vindo ao meu perfil.👋
+#### Graduando em Ciência de Dados 3° período.
 ![Miguel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelSilva25&show_icons=true&theme=tokyonight)
 
 ### Tecnologia do meu dia a dia!
